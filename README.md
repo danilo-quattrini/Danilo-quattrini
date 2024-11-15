@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">My name is Danilo  from 🇮🇹</p>
+<p align="center">My name is Danilo  from 🇮🇹, studying computer science and try to be full stack developer (maybe) </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">📝 About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since: I learned my first “Hello World”<br>☕ Fuel: Coffee & stack overflow searches<br>🎯 Goal: Write code that actually works on the first try (impossible)<br>🎲 Fun fact: Sometimes I talk to my code as if it can hear me<br>🧠 Random Skill: Fluent in keyboard shortcuts, and reach at least 70 wpm</p>
+<p align="center">✨ Creating bugs since: I learned my first “Hello World”<br>☕ Fuel: Caffein is my life & stack overflow<br>🎯 Goal: Write code that works (impossible)<br>🎲 Fun fact: Sometimes I talk to my code as if it can hear me<br>🧠 Random Skill: Fluent in keyboard shortcuts, and reach at least 70 wpm 🥹</p>
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="center">🧑🏼‍💻 I code with</h2>
 
 ###
 
@@ -54,4 +54,3 @@
   <h2>🚀 Github Commits</h2>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
 </div>
-###
