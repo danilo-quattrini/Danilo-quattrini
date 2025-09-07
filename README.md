@@ -1,20 +1,20 @@
-<h1 align="center">Hey 👋 What's up folks?</h1>
+<h1>Hey 👋 What's up folks?</h1>
 
 ###
 
-<p align="center">My name is Danilo  from 🇮🇹, studying computer science and try to be full stack developer (maybe) </p>
+<p>My name is Danilo  from 🇮🇹, studying computer science and try to be full stack developer (maybe) </p>
 
 ###
 
-<h2 align="center">📝 About me</h2>
+<h2>📝 About me</h2>
 
 ###
 
-<p align="center">✨ Creating bugs since: I learned my first “Hello World”<br>☕ Fuel: Caffein is my life & stack overflow<br>🎯 Goal: Write code that works (impossible)<br>🎲 Fun fact: Sometimes I talk to my code as if it can hear me<br>🧠 Random Skill: Fluent in keyboard shortcuts, and reach at least 70 wpm 🥹</p>
+<p>✨ Creating bugs since: I learned my first “Hello World”<br>☕ Fuel: Caffein is my life & stack overflow<br>🎯 Goal: Write code that works (impossible)<br>🎲 Fun fact: Sometimes I talk to my code as if it can hear me<br>🧠 Random Skill: Fluent in keyboard shortcuts, and reach at least 70 wpm 🥹</p>
 
 ###
 
-<h2 align="center">🧑🏼‍💻 I code with</h2>
+<h2>🧑🏼‍💻 I code with</h2>
 
 ###
 
@@ -48,11 +48,11 @@
 
 ###
 
-<div align="center">
+<div align="center" style="margin:10px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danilo-quattrini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=danilo-quattrini&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-<div align="center">
+<div>
   <h2>🚀 Github Commits</h2>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
 </div>
