@@ -1,12 +1,11 @@
-# 👋 Hello! I'm Danilo
+# 👋 Hello! I'm Danilo Quattrini
 
 ## 🇮🇹 About Me
 
-- 🎓 **Student:** Computer Science from Italy
-- 🚀 **Aspiring:** Full Stack Dev (Maybe smth else one day)
+- 🎓 **Graduate CS:** Bachelor Degree in CS
+- 🚀 **Aspiring:** Full Stack Dev
 - ☕ **Fuel:** Caffeine & Pray to God
-- 🎯 **Goal:** Write code that works (btw without gpt)
-- 🎲 **Fun fact:** I sometimes talk to rubber ducks to debug my code
+- 🎯 **Goal:** Write code that works
 - 💭 **Dream:** Become a Dev for Apple (if I can find some time to learn how to do it)
 ---
 
@@ -22,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <img width="12" />
